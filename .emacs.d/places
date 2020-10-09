@@ -1,0 +1,100 @@
+;;; -*- coding: utf-8 -*-
+(("/home/nikhil/.xbindkeysrc" . 1774)
+ ("/etc/hostname" . 7)
+ ("/home/nikhil/"
+  (dired-filename . "/home/nikhil/.bash_history"))
+ ("/"
+  (dired-filename . "/bin"))
+ ("/etc/"
+  (dired-filename . "/etc/adjtime"))
+ ("/home/nikhil/MyFiles/Nikhil/org_agenda/planner.org" . 313)
+ ("/home/nikhil/.emacs.d/elpa/calmer-forest-theme-20130926.510/calmer-forest-theme-autoloads.el" . 482)
+ ("/home/nikhil/.emacs.d/elpa/forest-blue-theme-20160627.842/forest-blue-theme-autoloads.el" . 474)
+ ("/home/nikhil/.emacs.d/elpa/color-theme-sanityinc-solarized-20200805.603/color-theme-sanityinc-solarized-autoloads.el" . 1129)
+ ("/home/nikhil/.emacs.d/elpa/gruvbox-theme-20200807.855/gruvbox-theme-autoloads.el" . 2839)
+ ("/home/nikhil/.emacs.d/elpa/autothemer-20180920.923/autothemer-autoloads.el" . 1111)
+ ("/tmp/"
+  (dired-filename . "/tmp/babel-pk85mh"))
+ ("/home/nikhil/.emacs.d/elpa/sublime-themes-20170606.1844/sublime-themes-autoloads.el" . 5425)
+ ("/home/nikhil/.xinitrc" . 37)
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/src/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/jfinder/src/main"))
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/src/main/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java"))
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java/jfinder"))
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java/jfinder/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java/jfinder/Main.java"))
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/src/main/java/jfinder/Main.java" . 1921)
+ ("/home/nikhil/.bashrc" . 504)
+ ("/home/nikhil/.emacs.d/myinit.org" . 9878)
+ ("/home/nikhil/.emacs.d/"
+  (dired-filename . "/home/nikhil/.emacs.d/auto-save-list"))
+ ("/home/nikhil/MyFiles/Nikhil/org_agenda/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/org_agenda/planner.org"))
+ ("/home/nikhil/.emacs.d/elpa/org-super-agenda-20200310.1337/org-super-agenda-autoloads.el" . 1169)
+ ("/home/nikhil/.emacs.d/elpa/ts-20191010.210/ts-autoloads.el" . 392)
+ ("/home/nikhil/.emacs.d/java_setup.org" . 2614)
+ ("/home/nikhil/MyFiles/Nikhil/jfinder/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/jfinder/src"))
+ ("/mnt/sda2/Nikhil/jfinder/"
+  (dired-filename . "/mnt/sda2/Nikhil/jfinder/bin"))
+ ("/home/nikhil/Mail/" . 169)
+ ("/home/nikhil/Public/" . 171)
+ ("/home/nikhil/MyFiles/Nikhil/LeetcodeProblems/MaximumNumberOfVisiblePoints/Solution.cpp" . 577)
+ ("/usr/include/c++/10.2.0/bits/predefined_ops.h" . 4997)
+ ("/home/nikhil/MyFiles/Nikhil/LeetcodeProblems/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/LeetcodeProblems/AddAndSearchWord"))
+ ("/home/nikhil/.emacs.d/elpa/org-9.3.6/org-loaddefs.el" . 109127)
+ ("/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/chem/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/chem/hybridization_notes_10_2_20"))
+ ("/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/chem/hybridization_notes_10_2_20/" . 228)
+ ("/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/chem/hybridization_notes_10_2_20/notes.org" . 12)
+ ("/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/chem/hybridization_notes_10_2_20/notes.tex" . 2879)
+ ("/home/nikhil/.emacs.d/elpa/org-fragtog-20200703.229/org-fragtog-autoloads.el" . 900)
+ ("/home/nikhil/.emacs.d/elpa/org-9.3.6/org-autoloads.el" . 59184)
+ ("/home/nikhil/.emacs.d/elpa/org-edit-latex-20170908.1522/org-edit-latex-autoloads.el" . 1510)
+ ("/home/nikhil/.emacs.d/elpa/auctex-12.2.4/auctex-autoloads.el" . 13637)
+ ("/home/nikhil/MyFiles/"
+  (dired-filename . "/home/nikhil/MyFiles/$RECYCLE.BIN"))
+ ("/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/"
+  (dired-filename . "/home/nikhil/MyFiles/Nikhil/MontaVistaSchool2020-2021/basketball"))
+ ("/home/nikhil/.virtualenvs/"
+  (dired-filename . "/home/nikhil/.virtualenvs/p3"))
+ ("/mnt/sda2/Nikhil/BuildSystem/build/libs/tomlc99/toml.c" . 48479)
+ ("/mnt/sda2/Nikhil/test_projects/chat_networking/networking_utils.cpp" . 2070)
+ ("/mnt/sda2/Nikhil/test_projects/chat_networking/"
+  (dired-filename . "/mnt/sda2/Nikhil/test_projects/chat_networking/client"))
+ ("/usr/lib/"
+  (dired-filename . "/usr/lib/.."))
+ ("/usr/local/lib/"
+  (dired-filename . "/usr/local/lib/.."))
+ ("/usr/local/include/"
+  (dired-filename . "/usr/local/include/.."))
+ ("/usr/local/"
+  (dired-filename . "/usr/local/.."))
+ ("/usr/"
+  (dired-filename . "/usr/include"))
+ ("/usr/include/"
+  (dired-filename . "/usr/include/c++"))
+ ("/usr/include/c++/"
+  (dired-filename . "/usr/include/c++/10"))
+ ("/mnt/sda2/Nikhil/DrootrProject/"
+  (dired-filename . "/mnt/sda2/Nikhil/DrootrProject/backend"))
+ ("/sudo:root@localhost:/home/nikhil_chatterjee/MyFiles/Nikhil/DrootrProject/"
+  (dired-filename . "/sudo:root@localhost:/home/nikhil_chatterjee/MyFiles/Nikhil/DrootrProject/index.html"))
+ ("/sudo:root@localhost:/home/nikhil_chatterjee/MyFiles/Nikhil/DrootrProject/index.html" . 138)
+ ("/sudo:root@localhost:/etc/apache2/apache2.conf" . 355)
+ ("/usr/lib/jvm/"
+  (dired-filename . "/usr/lib/jvm/java-14-openjdk-amd64"))
+ ("/mnt/sda2/Nikhil/LeetCodeProblems/.git/"
+  (dired-filename . "/mnt/sda2/Nikhil/LeetCodeProblems/.git/.."))
+ ("/mnt/sda2/Nikhil/LeetCodeProblems/"
+  (dired-filename . "/mnt/sda2/Nikhil/LeetCodeProblems/.git"))
+ ("/mnt/sda2/Nikhil/LeetCodeProblems/PrintBinaryTree/"
+  (dired-filename . "/mnt/sda2/Nikhil/LeetCodeProblems/PrintBinaryTree/.."))
+ ("/mnt/sda2/Nikhil/LeetCodeProblems/ImplementTrie_PrefixTree/"
+  (dired-filename . "/mnt/sda2/Nikhil/LeetCodeProblems/ImplementTrie_PrefixTree/Trie.java"))
+ ("/mnt/sda2/Nikhil/LeetCodeProblems/IteratorForCombination/"
+  (dired-filename . "/mnt/sda2/Nikhil/LeetCodeProblems/IteratorForCombination/Solution.cpp"))
+ ("/mnt/sda2/$RECYCLE.BIN/S-1-5-21-3419968480-1339054222-364367411-1001/$RJ4FLWR/src/main/java/neuralnetworks/XORVisualizer.java" . 143))

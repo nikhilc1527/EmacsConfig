@@ -1,0 +1,2 @@
+;;; Generated package description from /home/nikhil/.emacs.d/elpa/forest-blue-theme-20160627.842/forest-blue-theme.el  -*- no-byte-compile: t -*-
+(define-package "forest-blue-theme" "20160627.842" "Emacs theme with a dark background." '((emacs "24")) :commit "58096ce1a25615d2bae806c3775bae3e2775019d" :authors '(("olkinn")) :maintainer '("olkinn"))
